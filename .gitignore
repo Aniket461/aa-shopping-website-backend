@@ -1,0 +1,6 @@
+node_modules
+/aws-service/node_modules
+/order-confirmation-service/node_modules
+/product-service/node_modules
+/order-service/node_modules
+/user-service/node_modules
